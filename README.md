@@ -1,91 +1,86 @@
-<!--
-  GitHub profile README for @mithilkatkoria
-  To show this on your profile, create a PUBLIC repository named exactly
-  "mithilkatkoria", then add this file as README.md in its main branch.
--->
-
 <div align="center">
 
-# Mithil Katkoria
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:182A52,100:7C3AED&height=250&section=header&text=MITHIL%20KATKORIA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=BUILDING%20IN%20PUBLIC%20%E2%80%94%20ONE%20CURIOUS%20IDEA%20AT%20A%20TIME&descAlignY=58&descSize=14" width="100%" alt="Mithil Katkoria — Building in public" />
 
-### Building curious ideas into useful digital things.
-
-<a href="https://github.com/mithilkatkoria">GitHub</a>
-&nbsp;·&nbsp;
-<a href="#connect">Connect</a>
-
-<br />
-
-`M K` &nbsp;—&nbsp; *learn · build · improve · repeat*
+<a href="https://github.com/mithilkatkoria"><img src="https://img.shields.io/badge/GitHub-mithilkatkoria-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/mithilkatkoria/PrimeOG-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
----
+<br />
 
-## Hello, world.
+```text
+┌─[ mithil@github ]──────────────────────────────────────┐
+│  I make room for curious software experiments,          │
+│  intelligent tools, and ideas worth shipping.            │
+└─────────────────────────────────────────────────────────┘
+```
 
-I’m **Mithil Katkoria**. This is my corner of GitHub: a growing collection of ideas, experiments, and work in progress.
-
-I value clear thinking, thoughtful design, and making things that are genuinely useful—not just technically possible.
+## `// now`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 — Building</h3>
-      <p>Projects that turn an idea into something people can use.</p>
+      <h3>01 / Make it useful</h3>
+      <p>Exploring practical software, web experiences, and AI-powered tools.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 — Learning</h3>
-      <p>New tools, better systems, and the craft behind good digital products.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 — Sharing</h3>
-      <p>Useful work, lessons learned, and progress made in public.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 — Collaborating</h3>
-      <p>Always open to thoughtful conversations and interesting ideas.</p>
+      <h3>02 / Make it clear</h3>
+      <p>Turning experiments into projects that are easy to understand and use.</p>
     </td>
   </tr>
 </table>
 
-## Selected work
+## `// repository radar`
 
-> The best way to know someone’s work is to see it.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mithilkatkoria/PrimeOG-Portfolio"><strong>↗ PrimeOG Portfolio</strong></a><br />
+      A home for portfolio work and personal experiments.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mithilkatkoria/worldmonitor"><strong>↗ World Monitor</strong></a><br />
+      Exploring a real-time global intelligence dashboard.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mithilkatkoria/openclaw"><strong>↗ OpenClaw</strong></a><br />
+      Exploring the future of personal AI assistants.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mithilkatkoria/claurst"><strong>↗ Claurst</strong></a><br />
+      Exploring terminal-native coding agents built in Rust.
+    </td>
+  </tr>
+</table>
 
-As this profile develops, I’ll pin my strongest projects below. Each project will explain the problem, the approach, and the result—not just the tools used.
+<br />
 
-<!--
-  When you have projects, replace this note by pinning 3–5 repositories in
-  GitHub: Profile → Customize your pins. Good project README titles describe
-  the outcome, e.g. “A booking dashboard for independent studios”.
--->
+## `// signal`
 
-## Currently
+<div align="center">
 
-```text
-Exploring:      practical software, design, and the tools behind good ideas
-Improving:      the quality and clarity of every project I share
-Open to:        learning, building, and useful collaborations
-```
+<a href="https://github.com/mithilkatkoria">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mithilkatkoria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=8B5CF6" alt="Mithil's GitHub statistics" />
+</a>
+<a href="https://github.com/mithilkatkoria">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithilkatkoria&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1" alt="Mithil's top languages" />
+</a>
 
-## A small principle
+</div>
 
-> Make it clear. Make it useful. Make it better than yesterday.
+## `// principles`
 
----
+> **Useful beats noisy. Clarity beats complexity. Curiosity beats comfort.**
 
-<div id="connect" align="center">
+<div align="center">
 
-### Let’s connect
+<sub>Thanks for stopping by. If you're building something interesting, let's compare notes.</sub>
 
-If you have an idea worth discussing, I’d be glad to hear it.
+<br /><br />
 
-<!-- Replace the placeholder below with your real LinkedIn, portfolio, email, or other contact link. -->
-[GitHub](https://github.com/mithilkatkoria) &nbsp;·&nbsp; [Add your LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [Add your portfolio](https://example.com/)
-
-<sub>© Mithil Katkoria</sub>
+<img src="https://komarev.com/ghpvc/?username=mithilkatkoria&style=flat-square&color=7C3AED&label=profile+views" alt="Profile views" />
 
 </div>
