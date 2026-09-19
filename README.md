@@ -1,86 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:182A52,100:7C3AED&height=250&section=header&text=MITHIL%20KATKORIA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=BUILDING%20IN%20PUBLIC%20%E2%80%94%20ONE%20CURIOUS%20IDEA%20AT%20A%20TIME&descAlignY=58&descSize=14" width="100%" alt="Mithil Katkoria — Building in public" />
-
-<a href="https://github.com/mithilkatkoria"><img src="https://img.shields.io/badge/GitHub-mithilkatkoria-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/mithilkatkoria/PrimeOG-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
-</div>
+<img src="./assets/profile-terminal.svg" width="100%" alt="Mithil Katkoria developer profile terminal" />
 
 <br />
 
-```text
-┌─[ mithil@github ]──────────────────────────────────────┐
-│  I make room for curious software experiments,          │
-│  intelligent tools, and ideas worth shipping.            │
-└─────────────────────────────────────────────────────────┘
+<a href="https://draey.dev"><img src="https://img.shields.io/badge/draey.dev-070a08?style=flat-square&logo=vercel&logoColor=6CFF9B" alt="draey.dev" /></a>
+<a href="https://github.com/mithilkatkoria/floatlet"><img src="https://img.shields.io/badge/Floatlet-Windows_native-070a08?style=flat-square&logo=windows11&logoColor=6CFF9B" alt="Floatlet" /></a>
+<a href="https://github.com/mithilkatkoria/draey-codex-hub"><img src="https://img.shields.io/badge/Draey_Codex_Hub-developer_tool-070a08?style=flat-square&logo=windowsterminal&logoColor=6CFF9B" alt="Draey Codex Hub" /></a>
+
+</div>
+
+## `/about`
+
+I am **Mithil Katkoria**, a student developer in London building desktop software, developer tools, simulations and web products.
+
+I like projects that sit close to the machine or solve an annoying problem properly. That currently means native Windows UI, C++, Rust/Tauri, Python simulation systems, developer tooling and the occasional hardware or computing experiment.
+
+```txt
+focus       native desktop software / developer tools / simulation
+shipping    Windows apps, web products, experiments
+learning    systems design, algorithms, performance, better engineering
+rule        if it can be built cleaner, faster or stranger, try it
 ```
 
-## `// now`
+## `/active-processes`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Make it useful</h3>
-      <p>Exploring practical software, web experiences, and AI-powered tools.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Make it clear</h3>
-      <p>Turning experiments into projects that are easy to understand and use.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Floatlet](https://github.com/mithilkatkoria/floatlet)
+**Native Windows companion**
+
+A compact Dynamic Island-style surface for Windows 11 with media controls, a file tray, timers, calendar integration, system controls and multi-monitor behaviour.
+
+`C++20` `Direct2D` `DirectWrite` `Windows Composition`
+
+</td>
+<td width="50%" valign="top">
+
+### [Draey Codex Hub](https://github.com/mithilkatkoria/draey-codex-hub)
+**Multi-account Codex manager**
+
+A Windows desktop dashboard for viewing real Codex usage limits, reset windows, projects and account preferences from one place.
+
+`Tauri` `Rust` `TypeScript` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [PITWALL](https://github.com/mithilkatkoria/PITWALL)
+**Race strategy simulation system**
+
+A motorsport strategy simulator with tyre degradation, weather, safety cars, Monte Carlo experiments and bounded strategy optimisation.
+
+`Python` `PySide6` `Matplotlib` `pytest`
+
+</td>
+<td width="50%" valign="top">
+
+### [Astro Pi Mission Zero](https://github.com/mithilkatkoria/astropi-mission-zero)
+**ISS computing experiment**
+
+Python experiment code using Sense HAT motion data, camera captures and time-based sensor processing, with real output preserved in the repository.
+
+`Python` `Raspberry Pi` `Sense HAT` `Pi Camera`
+
+</td>
+</tr>
 </table>
 
-## `// repository radar`
+## `/stack`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/mithilkatkoria/PrimeOG-Portfolio"><strong>↗ PrimeOG Portfolio</strong></a><br />
-      A home for portfolio work and personal experiments.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/mithilkatkoria/worldmonitor"><strong>↗ World Monitor</strong></a><br />
-      Exploring a real-time global intelligence dashboard.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/mithilkatkoria/openclaw"><strong>↗ OpenClaw</strong></a><br />
-      Exploring the future of personal AI assistants.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/mithilkatkoria/claurst"><strong>↗ Claurst</strong></a><br />
-      Exploring terminal-native coding agents built in Rust.
-    </td>
-  </tr>
-</table>
+```txt
+languages    C++ · Python · TypeScript · JavaScript · HTML/CSS · Rust
+desktop      Win32 · Direct2D · DirectWrite · Tauri · PySide6
+web          React · Vercel · REST APIs
+tooling      Git · GitHub Actions · CMake · pytest
+interests    native UI · algorithms · developer experience · AI tooling · simulation
+```
 
-<br />
+## `/build-log`
 
-## `// signal`
+Some smaller experiments and workshop projects live here too:
 
-<div align="center">
+- **[Inspire Scholars Workshop 4: Quantum Computing](https://github.com/mithilkatkoria/SuperChallenge---Upcoming-technologies-Workshop-4-2026)**: an interactive research poster exploring qubits, superposition, entanglement, interference and real-world quantum-computing applications.
+- **[draey.dev](https://draey.dev)**: home base for the things I build.
+- **[GitHub repositories](https://github.com/mithilkatkoria?tab=repositories)**: the rest of the lab.
 
-<a href="https://github.com/mithilkatkoria">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mithilkatkoria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=8B5CF6" alt="Mithil's GitHub statistics" />
-</a>
-<a href="https://github.com/mithilkatkoria">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithilkatkoria&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1" alt="Mithil's top languages" />
-</a>
+## `/signal`
 
-</div>
+```text
+mithil@github:~$ ./next
+> build something useful
+> understand how it works
+> make the interface feel intentional
+> ship it
+█
+```
 
-## `// principles`
-
-> **Useful beats noisy. Clarity beats complexity. Curiosity beats comfort.**
-
-<div align="center">
-
-<sub>Thanks for stopping by. If you're building something interesting, let's compare notes.</sub>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=mithilkatkoria&style=flat-square&color=7C3AED&label=profile+views" alt="Profile views" />
-
-</div>
+<sub>
+Search terms: Mithil Katkoria · Windows developer · C++ developer · Python developer · Tauri · Rust · developer tools · native Windows apps · simulation software
+</sub>
