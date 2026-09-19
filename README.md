@@ -12,7 +12,7 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=mithilkatkoria&label=profile+views&color=6CFF9B&style=flat-square&base=3132" alt="Mithil Katkoria profile views" />
+<img src="https://komarev.com/ghpvc/?username=mithilkatkoria&label=profile+views&color=0B7A3D&style=flat-square&base=3132" alt="Mithil Katkoria profile views" />
 
 </div>
 
