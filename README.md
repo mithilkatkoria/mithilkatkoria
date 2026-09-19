@@ -5,8 +5,14 @@
 <br />
 
 <a href="https://draey.dev"><img src="https://img.shields.io/badge/draey.dev-070a08?style=flat-square&logo=vercel&logoColor=6CFF9B" alt="draey.dev" /></a>
+<a href="https://www.linkedin.com/in/mithil-katkoria"><img src="https://img.shields.io/badge/LinkedIn-070a08?style=flat-square&logo=linkedin&logoColor=6CFF9B" alt="Mithil Katkoria on LinkedIn" /></a>
+<a href="https://medium.com/@mithil.katkoria"><img src="https://img.shields.io/badge/Medium-070a08?style=flat-square&logo=medium&logoColor=6CFF9B" alt="Mithil Katkoria on Medium" /></a>
 <a href="https://github.com/mithilkatkoria/floatlet"><img src="https://img.shields.io/badge/Floatlet-Windows_native-070a08?style=flat-square&logo=windows11&logoColor=6CFF9B" alt="Floatlet" /></a>
 <a href="https://github.com/mithilkatkoria/draey-codex-hub"><img src="https://img.shields.io/badge/Draey_Codex_Hub-developer_tool-070a08?style=flat-square&logo=windowsterminal&logoColor=6CFF9B" alt="Draey Codex Hub" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=mithilkatkoria&label=profile+views&color=6CFF9B&style=flat-square&base=3132" alt="Mithil Katkoria profile views" />
 
 </div>
 
@@ -91,6 +97,12 @@ Some smaller experiments and workshop projects live here too:
 - **[GitHub repositories](https://github.com/mithilkatkoria?tab=repositories)**: the rest of the lab.
 
 ## `/signal`
+
+> *“People say that you should not micro-optimize. But if what you love is micro-optimization... that's what you should do.”*  
+> **Linus Torvalds**
+
+> *“Sometimes my genius is almost frightening.”*  
+> **Jeremy Clarkson**
 
 ```text
 mithil@github:~$ ./next
