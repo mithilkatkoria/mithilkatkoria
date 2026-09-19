@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <rect width="1200" height="320" fill="#070a08"/>
+  <g opacity=".18" stroke="#6cff9b" stroke-width="1">
+    <path d="M0 40H1200M0 80H1200M0 120H1200M0 160H1200M0 200H1200M0 240H1200M0 280H1200"/>
+    <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
+  </g>
+  <rect x="34" y="30" width="1132" height="260" rx="16" fill="#0b100d" stroke="#243229"/>
+  <circle cx="64" cy="58" r="6" fill="#ff5f56"/>
+  <circle cx="84" cy="58" r="6" fill="#ffbd2e"/>
+  <circle cx="104" cy="58" r="6" fill="#27c93f"/>
+  <text x="138" y="63" fill="#65766b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">mithil@github : ~/workspace</text>
+  <text x="62" y="126" fill="#6cff9b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">$ whoami</text>
+  <text x="62" y="175" fill="#f1f7f3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="52" font-weight="700">MITHIL KATKORIA</text>
+  <text x="62" y="218" fill="#a8b8ae" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">building native tools · developer systems · strange ideas that ship</text>
+  <text x="62" y="257" fill="#6cff9b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">status: online  /  mode: build → test → ship → repeat</text>
+</svg>
