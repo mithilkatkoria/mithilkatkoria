@@ -8,11 +8,10 @@
 <a href="https://www.linkedin.com/in/mithil-katkoria"><img src="https://img.shields.io/badge/LinkedIn-070a08?style=flat-square&logo=linkedin&logoColor=6CFF9B" alt="Mithil Katkoria on LinkedIn" /></a>
 <a href="https://medium.com/@mithil.katkoria"><img src="https://img.shields.io/badge/Medium-070a08?style=flat-square&logo=medium&logoColor=6CFF9B" alt="Mithil Katkoria on Medium" /></a>
 <a href="https://github.com/mithilkatkoria/floatlet"><img src="https://img.shields.io/badge/Floatlet-Windows_native-070a08?style=flat-square&logo=windows11&logoColor=6CFF9B" alt="Floatlet" /></a>
-<a href="https://github.com/mithilkatkoria/draey-codex-hub"><img src="https://img.shields.io/badge/Draey_Codex_Hub-developer_tool-070a08?style=flat-square&logo=windowsterminal&logoColor=6CFF9B" alt="Draey Codex Hub" /></a>
+<a href="https://github.com/mithilkatkoria/VeyDock"><img src="https://img.shields.io/badge/VeyDock-developer_tool-070a08?style=flat-square&logo=windowsterminal&logoColor=6CFF9B" alt="VeyDock" /></a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=mithilkatkoria&label=profile+views&color=0B7A3D&style=flat-square&base=3132" alt="Mithil Katkoria profile views" />
 
 </div>
 
@@ -45,10 +44,10 @@ A compact Dynamic Island-style surface for Windows 11 with media controls, a fil
 </td>
 <td width="50%" valign="top">
 
-### [Draey Codex Hub](https://github.com/mithilkatkoria/draey-codex-hub)
-**Multi-account Codex manager**
+### [VeyDock](https://github.com/mithilkatkoria/VeyDock)
+**Open-source Windows developer tool**
 
-A Windows desktop dashboard for viewing real Codex usage limits, reset windows, projects and account preferences from one place.
+An MIT-licensed Windows dashboard for viewing provider-reported Codex usage, reset windows, profiles and project shortcuts. Claude Code profiles are in beta; full switching acceptance remains pending.
 
 `Tauri` `Rust` `TypeScript` `React`
 
@@ -77,6 +76,18 @@ Python experiment code using Sense HAT motion data, camera captures and time-bas
 </td>
 </tr>
 </table>
+
+## `/open-source-contributions`
+
+Three merged contributions to [Renovate](https://github.com/renovatebot/renovate), with regression coverage and AI assistance disclosed in each pull request:
+
+| Contribution | Merged |
+| --- | --- |
+| [Preserve @ characters in release-note URLs](https://github.com/renovatebot/renovate/pull/45555) | 1 September 2026 |
+| [Preserve Rez version precision](https://github.com/renovatebot/renovate/pull/45554) | 2 September 2026 |
+| [Add host-rule authentication for AWS EKS add-ons](https://github.com/renovatebot/renovate/pull/45552) | 1 September 2026 |
+
+I also maintain [Floatlet](https://github.com/mithilkatkoria/floatlet) and [VeyDock](https://github.com/mithilkatkoria/VeyDock), both distributed under the MIT license. Their repositories include source, build instructions, releases and contribution guidance.
 
 ## `/stack`
 
